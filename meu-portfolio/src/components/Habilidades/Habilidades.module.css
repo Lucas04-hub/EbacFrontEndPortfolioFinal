@@ -1,0 +1,76 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+
+.caixaHabilidades {
+  background: #fff;
+  border: 3px solid #ffd700;     /* dourado */
+  border-radius: 18px;
+  padding: 2.4rem 2rem 2rem 2rem;
+  box-shadow: 0 2px 14px #0001;
+  width: 100%;
+  max-width: 500px;
+  margin: 36px 24px;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo {
+  background: linear-gradient(90deg, #ffd700 0%, #ffc300 50%, #ff9800 100%);
+  color: #222;
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding: 0.8rem 2rem;
+  border-radius: 9px;
+  margin-bottom: 24px;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lista li {
+  margin: 0.6rem 0;
+  position: relative;
+  padding-left: 1.6rem;
+}
+
+.lista li::before {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  left: 0.2rem;
+  top: 0.6em;
+  width: 0.8em;
+  height: 0.8em;
+  border-radius: 50%;
+  background: linear-gradient(90deg, #ffd700 0%, #ffc300 70%, #ff9800 100%);
+  transform: translateY(-50%);
+}
+
+@media (max-width: 600px) {
+  .caixaHabilidades {
+    margin: 24px 5px;
+    padding: 1.2rem 0.5rem;
+    max-width: 98vw;
+  }
+  .titulo {
+    font-size: 1.1rem;
+    padding: 0.6rem 1rem;
+    margin-bottom: 14px;
+  }
+  .lista li {
+    font-size: 0.98rem;
+    padding-left: 1.1rem;
+  }
+}

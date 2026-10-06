@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+
+.caixaProjetos {
+  background: #22272e; /* Cinza escuro do GitHub */
+  border: 3px solid #fff; /* Borda branca */
+  border-radius: 18px;
+  padding: 2.5rem 2rem;
+  box-shadow: 0 2px 18px #0002; /* Suave sombra */
+  width: 100%;
+  max-width: 540px;
+  color: #fff;
+}
+
+.caixaProjetos h1,
+.caixaProjetos h2,
+.caixaProjetos p,
+.caixaProjetos a {
+  text-align: center;
+}
+
+.caixaProjetos {
+  background: #22272e;
+  border: 3px solid #fff;
+  border-radius: 18px;
+  padding: 2.5rem 2rem;
+  box-shadow: 0 2px 18px #0002;
+  width: 100%;
+  max-width: 540px;
+  color: #fff;
+  margin: 36px 24px; /* Espaço fora da caixa: cima-baixo 36px, lados 24px */
+}
+
+/* Torne responsivo para telas pequenas */
+@media (max-width: 600px) {
+  .caixaProjetos {
+    margin: 24px 8px; /* Menos margem lateral em telas pequenas */
+    padding: 1.2rem 0.4rem;
+  }
+}
+.caixaProjetos a:hover {
+  text-decoration: underline;
+}
