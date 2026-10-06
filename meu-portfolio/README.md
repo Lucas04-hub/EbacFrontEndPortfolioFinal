@@ -21,7 +21,7 @@ O site abrirá em: http://localhost:3000
 
 ## 🌎 Veja online
 
-Acesse: [LINK DO DEPLOY NO VERCEL/NETLIFY/GITHUB PAGES AQUI]
+Acesse: [ebac-front-end-portfolio-final.vercel.app](ebac-front-end-portfolio-final.vercel.app)
 
 ------------------------------
 
