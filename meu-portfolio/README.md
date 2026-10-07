@@ -21,15 +21,15 @@ O site abrirá em: http://localhost:3000
 
 ## 🌎 Veja online
 
-Acesse: [ebac-front-end-portfolio-final.vercel.app](ebac-front-end-portfolio-final.vercel.app)
+Acesse: [https://ebac-front-end-portfolio-final.vercel.app](https://ebac-front-end-portfolio-final.vercel.app)
 
 ------------------------------
 
 ## 📂 Projetos apresentados
 
-- **Cardápio Micro-Frontends:** Breve descrição do projeto, tecnologias usadas, [Ver código](https://github.com/Lucas04-hub/TarefaEbacbCardapioMicro).
-- **Lista de Artigos:** Breve descrição, tecnologias, [Ver código](https://github.com/Lucas04-hub/TarefaEbacListaDeArtigos).
-- **Loja de Produtos:** Breve descrição, tecnologias, [Ver código](https://github.com/Lucas04-hub/TarefaEbacLojaDeProdutosReact).
+- **Cardápio Micro-Frontends:** Aplicação que simula um cardápio digital utilizando arquitetura de micro-frontends com Next.js. Permite integração de módulos independentes, [Ver código](https://github.com/Lucas04-hub/TarefaEbacbCardapioMicro).
+- **Diario de Bordo:** Um site que permite você fazer anotações em um diario digital fazendo uso das tecnologias de HTML, CSS e JavaScript, [Ver código](https://github.com/Lucas04-hub/EbacTarefaDiarioPWA).
+- **Loja de Produtos:** Loja fictícia para consumo de API de produtos, feita em React com CSS Modules e Vite. Demonstra consumo de API, hooks e responsividade, [Ver código](https://github.com/Lucas04-hub/TarefaEbacLojaDeProdutosReact).
 
 > (Adapte conforme seus projetos e links reais!)
 
@@ -37,7 +37,7 @@ Acesse: [ebac-front-end-portfolio-final.vercel.app](ebac-front-end-portfolio-fin
 
 ## 🧑‍💻 Habilidades
 
-React, TypeScript, Styled Components, JavaScript, Micro Frontends, Jest, etc...
+React, TypeScript, Styled Components, JavaScript, Micro Frontends, Jest, Bootstrap, ESlint etc...
 
 ------------------------------
 

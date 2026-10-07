@@ -15,10 +15,10 @@ function Projetos() {
           </a>
         </p>
         
-        <h2>Projeto 2: Lista de Artigos</h2>
+        <h2>Projeto 2: Diario de Bordo</h2>
         <p>
-          Lista de artigos filtrável usando Next.js e Bootstrap<br />
-          <a href="https://github.com/Lucas04-hub/TarefaEbacListaDeArtigos" target="_blank" rel="noopener noreferrer">
+          Uma site onde tu pode escrever e anotar em um diario digital usando as tecnologias de HTML, CSS e JavaScript<br />
+          <a href="https://github.com/Lucas04-hub/EbacTarefaDiarioPWA" target="_blank" rel="noopener noreferrer">
             Ver no GitHub
           </a>
         </p>
