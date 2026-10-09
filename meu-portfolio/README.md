@@ -17,6 +17,8 @@ npm start
 
 O site abrirá em: http://localhost:3000
 
+E boom, você verá por completo meu portfólio sobre tudo que eu tenho e sei sobre Front End Python.
+
 ------------------------------
 
 ## 🌎 Veja online
@@ -27,21 +29,25 @@ Acesse: [https://ebac-front-end-portfolio-final.vercel.app](https://ebac-front-e
 
 ## 📂 Projetos apresentados
 
+Aqui estão alguns projetos com funcionalidades uteis no mercado e usando as tecnologias mais variadas possiveis.
+
 - **Cardápio Micro-Frontends:** Aplicação que simula um cardápio digital utilizando arquitetura de micro-frontends com Next.js. Permite integração de módulos independentes, [Ver código](https://github.com/Lucas04-hub/TarefaEbacbCardapioMicro).
 - **Diario de Bordo:** Um site que permite você fazer anotações em um diario digital fazendo uso das tecnologias de HTML, CSS e JavaScript, [Ver código](https://github.com/Lucas04-hub/EbacTarefaDiarioPWA).
 - **Loja de Produtos:** Loja fictícia para consumo de API de produtos, feita em React com CSS Modules e Vite. Demonstra consumo de API, hooks e responsividade, [Ver código](https://github.com/Lucas04-hub/TarefaEbacLojaDeProdutosReact).
 
-> (Adapte conforme seus projetos e links reais!)
-
 ------------------------------
 
 ## 🧑‍💻 Habilidades
+
+Um pouco sobre o conhecimento que eu tenho:
 
 React, TypeScript, Styled Components, JavaScript, Micro Frontends, Jest, Bootstrap, ESlint etc...
 
 ------------------------------
 
 ## 📬 Contato
+
+Se você quiser contatar comigo para que possamos conversar ou qualquer coisa assim, aqui estão meus principais meios de contato comercial:
 
 - **E-mail:** ribeirodasivlalucas918@gmail.com
 - **LinkedIn:** [linkedin.com/in/Lucas04hub](https://www.linkedin.com/in/lucas-ribeiro-da-silva-2b93ba414/)

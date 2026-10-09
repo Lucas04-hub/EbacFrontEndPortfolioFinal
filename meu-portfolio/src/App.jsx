@@ -2,10 +2,10 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import SobreMim from './components/SobreMim/SobreMim';
-import Projetos from './components/Projetos/projetos';
-import Habilidades from './components/Habilidades/habilidades';
-import Contato from './components/Contato/contato';
-import './App.css'; // Não esqueça de criar e importar o App.css
+import Projetos from './components/Projetos/Projetos';
+import Habilidades from './components/Habilidades/Habilidades';
+import Contato from './components/Contato/Contato';
+import './App.css';
 
 function App() {
   return (

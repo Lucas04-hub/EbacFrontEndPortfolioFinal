@@ -4,18 +4,18 @@
   align-items: center;
   justify-content: center;
   min-height: 60vh;
-  color: #fff;           /* Deixa o texto branco */
+  color: #fff;
   text-align: center;
 }
 
 .foto {
   width: 160px;
   height: 160px;
-  object-fit: cover;     /* Corta a foto para caber no círculo */
-  border-radius: 50%;    /* Deixa a imagem redonda */
-  border: 4px solid #fff; /* Opcional: borda branca ao redor da foto */
-  margin-bottom: 16px;   /* Espaço entre a foto e o texto */
-  box-shadow: 0 2px 15px #6c38a188; /* Sombra suave, opcional */
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 15px #6c38a188;
 }
 
 .titulo {

@@ -9,7 +9,7 @@ function SobreMim() {
       <div className={styles.titulo}>Sobre Mim</div>
       <p>
         Sou Lucas, desenvolvedor Front-End apaixonado por tecnologia e design e sempre busco aprender e melhorar como um desenvolvedor e artista.<br />
-        E-mail: ribeirodasilalucas918@gmail.com
+        E-mail: ribeirodasilvalucas918@gmail.com
       </p>
     </div>
   );
