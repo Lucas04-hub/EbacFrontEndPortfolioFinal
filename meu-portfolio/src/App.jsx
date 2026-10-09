@@ -2,9 +2,9 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import SobreMim from './components/SobreMim/SobreMim';
-import Projetos from './components/Projetos/Projetos';
-import Habilidades from './components/Habilidades/Habilidades';
 import Contato from './components/Contato/Contato';
+import Habilidades from './components/Habilidades/Habilidades';
+import Projetos from './components/Projetos/Projetos';
 import './App.css';
 
 function App() {
